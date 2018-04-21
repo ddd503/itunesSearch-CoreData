@@ -1,0 +1,6 @@
+framework module Pods_itunesSearch_CoreData {
+  umbrella header "Pods-itunesSearch-CoreData-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,38 @@
+{
+	"resultCount": 1,
+	"results": [
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 76032480,
+			"collectionId": 295587580,
+			"trackId": 295587704,
+			"artistName": "槇原敬之",
+			"collectionName": "どんなときも。- Single",
+			"trackName": "どんなときも。",
+			"collectionCensoredName": "どんなときも。- Single",
+			"trackCensoredName": "どんなときも。",
+			"artistViewUrl": "https://itunes.apple.com/jp/artist/%E6%A7%87%E5%8E%9F%E6%95%AC%E4%B9%8B/76032480?uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/jp/album/%E3%81%A9%E3%82%93%E3%81%AA%E3%81%A8%E3%81%8D%E3%82%82/295587580?i=295587704&uo=4",
+			"trackViewUrl": "https://itunes.apple.com/jp/album/%E3%81%A9%E3%82%93%E3%81%AA%E3%81%A8%E3%81%8D%E3%82%82/295587580?i=295587704&uo=4",
+			"previewUrl": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c4/96/8b/mzm.fpuvybfo.aac.p.m4a",
+			"artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/87/e4/25/87e42562-0158-f0c9-2d93-3512b68dc81b/source/30x30bb.jpg",
+			"artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/87/e4/25/87e42562-0158-f0c9-2d93-3512b68dc81b/source/60x60bb.jpg",
+			"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/87/e4/25/87e42562-0158-f0c9-2d93-3512b68dc81b/source/100x100bb.jpg",
+			"collectionPrice": 400,
+			"trackPrice": 250,
+			"releaseDate": "1991-06-10T07:00:00Z",
+			"collectionExplicitness": "notExplicit",
+			"trackExplicitness": "notExplicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 2,
+			"trackNumber": 1,
+			"trackTimeMillis": 307240,
+			"country": "JPN",
+			"currency": "JPY",
+			"primaryGenreName": "ポップ",
+			"isStreamable": true
+		}
+	]
+}
